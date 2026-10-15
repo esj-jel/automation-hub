@@ -1,0 +1,8 @@
+# Gradle / Android build output
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+# APKs are normally ignored under build/, but the curated release artifact is tracked.
